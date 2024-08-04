@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Giada_15/static/css/main.07b5524b.css",
+    "main.js": "/Giada_15/static/js/main.d9578009.js",
+    "static/js/453.ea00dc37.chunk.js": "/Giada_15/static/js/453.ea00dc37.chunk.js",
+    "static/media/front_card.png": "/Giada_15/static/media/front_card.78970e5890e9b877d0d7.png",
+    "static/media/inside_card.jpg": "/Giada_15/static/media/inside_card.8733c55335f097b54ad7.jpg",
+    "index.html": "/Giada_15/index.html",
+    "main.07b5524b.css.map": "/Giada_15/static/css/main.07b5524b.css.map",
+    "main.d9578009.js.map": "/Giada_15/static/js/main.d9578009.js.map",
+    "453.ea00dc37.chunk.js.map": "/Giada_15/static/js/453.ea00dc37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b5524b.css",
+    "static/js/main.d9578009.js"
+  ]
+}
